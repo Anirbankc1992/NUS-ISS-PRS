@@ -1,0 +1,8 @@
+Income: 	annual income in dollars
+Education: 	Years spend in education
+Age: 		in years
+Residence:	no. of years stayed in current residence
+Employ:		no. of years being employed
+Savings:	annual total savings in dollars
+Debt:		annual total debt in dollars
+Credit cards:	no. of credit cards in possession
